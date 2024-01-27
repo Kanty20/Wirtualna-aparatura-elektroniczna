@@ -66,6 +66,4 @@ Projekt kożysta z poniższych modułów:
 | Flask | https://flask.palletsprojects.com/en/3.0.x/ |[BSD-3-Clause](https://flask.palletsprojects.com/en/3.0.x/license/)|
 | Flasgger | https://github.com/flasgger/flasgger/blob/master/README.md | [MIT](https://github.com/flasgger/flasgger/blob/master/LICENSE)
 
-## Autor
-
-Autor Projektu
+## Projekt wykonany na zajęciach Wirtualna Aparatura Elektroniczna na Politechnice Wrocławskiej
