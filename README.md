@@ -17,7 +17,7 @@ Projekt Pythona mający na celu symulację działania zbiornika wody z grzałką
 - [Dokumentacja API](#dokumentacja-api)
 - [Przykłady](#przykłady)
 - [Informacje o Licencjach](#info)
-- [Autor](#autor)
+- [Proejkt](#projekt)
 
 
 ## Instalacja
