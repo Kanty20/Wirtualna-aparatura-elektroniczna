@@ -1,0 +1,18 @@
+Pobieranie Poziomu Wody
+---
+tags:
+  - Informacje
+summary: "Pobiera aktualny poziom wody"
+description: "Adres do pobierania aktualnego pozziomu wody w zbiorniku."
+responses:
+  200:
+    description: "Sukces"
+    content:
+      application/json:
+        schema:
+          type: object
+          properties:
+            temp:
+              type: number
+              format: float
+              example: 23.5
